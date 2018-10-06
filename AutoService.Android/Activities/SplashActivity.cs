@@ -34,7 +34,7 @@ namespace AutoService.Droid.Activities
             task.Start();
         }
 
-        async void SimulateStartup()
+        private async void SimulateStartup()
         {
             await Task.Delay(3000);
             StartActivity(new Intent(Application.Context, typeof(MainActivity)));

@@ -1,13 +1,13 @@
 ﻿<Properties StartupConfiguration="{C5214D74-6F37-4849-AE85-68012575AD2B}|Default">
   <MonoDevelop.Ide.ItemProperties.AutoService.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget." />
-  <MonoDevelop.Ide.Workbench ActiveDocument="AutoService/Core/Manager/ManagerChangesSync.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AutoService/Core/Manager/ManagerSyncQueue.cs">
     <Files>
       <File FileName="AutoService.Android/Activities/MainActivity.cs" Line="13" Column="88" />
-      <File FileName="AutoService/Data/DbContext.cs" Line="10" Column="1" />
+      <File FileName="AutoService/Data/DbContext.cs" Line="29" Column="17" />
       <File FileName="AutoService/Data/Model/DbObject.cs" Line="42" Column="2" />
-      <File FileName="AutoService/Data/Model/MChangesSync.cs" Line="4" Column="38" />
+      <File FileName="AutoService/Data/Model/MSyncQueue.cs" Line="6" Column="8" />
       <File FileName="AutoService/Core/Manager/ManagerBase.cs" Line="19" Column="9" />
-      <File FileName="AutoService/Core/Manager/ManagerChangesSync.cs" Line="4" Column="46" />
+      <File FileName="AutoService/Core/Manager/ManagerSyncQueue.cs" Line="19" Column="6" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

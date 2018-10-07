@@ -1,7 +1,7 @@
 ﻿using System;
 namespace AutoService.Data.Model
 {
-    public class MChangesSync : DbObject
+    public class MSyncQueue : DbObject
     {
        
         public DateTime ChangesDateTime { get; set; }

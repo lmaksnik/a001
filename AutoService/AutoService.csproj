@@ -20,5 +20,8 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Data\" />
+    <Folder Include="Data\Model\" />
+    <Folder Include="Core\" />
+    <Folder Include="Core\Manager\" />
   </ItemGroup>
 </Project>
